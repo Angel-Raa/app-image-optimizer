@@ -10,14 +10,14 @@ This Node.js script resizes images to different dimensions and scales, saving th
 To use the script, follow these steps:
 
 1. Clone the repository:
-  ```bash
-   git clone https://github.com/Angel-Raa/app-image-optimizer.git
+```bash
+git clone https://github.com/Angel-Raa/app-image-optimizer.git
 ```
 
 2. Navigate to the project directory:
-   ```bash
-    cd app-image-optimizer
-   ```
+```bash
+cd app-image-optimizer
+```
 
 3. cd app-image-optimizer
 ```bash
