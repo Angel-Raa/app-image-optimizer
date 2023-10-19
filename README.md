@@ -14,7 +14,6 @@ To use the script, follow these steps:
    git clone https://github.com/Angel-Raa/app-image-optimizer.git
 ```
 
-
 2. Navigate to the project directory:
    ```bash
     cd app-image-optimizer
